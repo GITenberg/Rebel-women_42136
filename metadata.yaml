@@ -1,0 +1,34 @@
+_repo: Rebel-women_42136
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42136-h/images/cover2.jpg
+creator:
+  author:
+    agent_name: Sharp, Evelyn
+    birthdate: 1869
+    deathdate: 1955
+    gutenberg_agent_id: '34581'
+    url: http://www.gutenberg.org/2009/agents/34581
+description: ''
+gutenberg_issued: '2013-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Great Britain -- Social conditions'
+- !lcc 'HQ'
+- !lcc 'PR'
+- !lcsh 'Women -- Suffrage -- Great Britain'
+tableOfContents: 'The women at the gate -- To prison while the sun shines -- Shaking
+  hands with the Middle Ages -- Filling the war chest -- The conversion of Penelope''s
+  mother -- At a street corner -- The crank of all the ages -- Patrolling the gutter
+  -- The black spot of the constituency -- Votes for women: forward! -- The person
+  who cannot escape -- The daughter who stays at home -- The game that wasn''t cricket
+  -- Dissension in the home.'
+title: Rebel women
+url: http://www.gutenberg.org/ebooks/42136
